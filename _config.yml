@@ -21,10 +21,10 @@ github_username: AllanWei0113
 highlighter: rouge
 
 # Build settings
-#markdown: kramdown
-markdown: redcarpet
-redcarpet:
-  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript", tables]
+markdown: kramdown
+#markdown: redcarpet
+#redcarpet:
+# extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript", tables]
       
 
 
